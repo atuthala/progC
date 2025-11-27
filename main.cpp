@@ -1,3 +1,7 @@
+/*
+создал github Generate a PAT на 30 дней
+  */
+
 #include <iostream>
 
 class Node {
